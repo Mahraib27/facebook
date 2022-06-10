@@ -1,0 +1,25 @@
+body {
+  background-color: whitesmoke;
+}
+.parent {
+  display: flex;
+  /* background-color: whitesmoke; */
+   
+}
+.child1 {
+    margin-top: 190px;
+    margin-left: 180px;
+    width: 490px;
+    /* background-color: aqua; */
+}
+.child2 {
+    margin-top: 150px;
+    margin-left: 110px;
+    border: 1px white solid;
+    border-radius: 10px;
+    width: 350px;
+    height: 320px;
+    padding: 14px 12px 2px 14px;
+    background-color: white;
+    box-shadow: 1px 1px 20px gray;
+}
